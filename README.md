@@ -1,6 +1,6 @@
 ## Hi there, I'm Lina 👋
 
-🧠19 year old first year degree apprentice 
+🧠19 year old first year degree apprentice<br/>
 🎨Currently developing mini projects to remain in touch with coding knowledge<br/>
 👀Always looking for opportunities to get hands on learning with various languages<br/>
 
@@ -14,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Linatouyeah&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Linatouyeah&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linatouyeah&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Linatouyeah&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Linatouyeah&limit=5&theme=omni&combine_all_yearly_contributions=true)
