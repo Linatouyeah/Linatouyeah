@@ -1,7 +1,7 @@
 ## Hi there, I'm Lina 👋
 
 🧠Digital & Technology Solutions student at the University of Exeter <br/>
-🎨Currently developing mini projects to reamin in touch with coding knowledge<br/>
+🎨Currently developing mini projects to remain in touch with coding knowledge<br/>
 👀Always looking for opportunities to get hands on learning with various languages<br/>
 
 
