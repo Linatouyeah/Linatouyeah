@@ -1,6 +1,6 @@
 ## Hi there, I'm Lina 👋
 
-🧠19 year old first year degree apprentice<br/>
+🧠19 year old second year degree apprentice<br/>
 🎨Currently developing mini projects to remain in touch with coding knowledge<br/>
 👀Always looking for opportunities to get hands on learning with various languages<br/>
 
